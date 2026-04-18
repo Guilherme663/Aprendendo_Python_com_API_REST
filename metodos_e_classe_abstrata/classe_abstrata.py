@@ -46,3 +46,8 @@ controle.desligar()
 controle = ControleArCondicionado()
 controle.ligar()
 print(controle.marca)
+
+""" 📌 Classe Abstrata (Python)
+Uma classe abstrata não pode ser instanciada diretamente
+Serve como modelo/base para outras classes
+Define métodos que devem ser implementados pelas subclasses """
